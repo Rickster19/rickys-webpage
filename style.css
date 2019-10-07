@@ -1,0 +1,78 @@
+table {
+	width: 90%;
+}
+th{
+	animation-name: b;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	font-size: 25px;
+}
+@keyframes b {
+	0% {
+		transform: rotate(0deg);
+	}
+	50% {
+		transform: rotate(720deg);
+	}
+	to {
+		transform: rotate(720deg);
+	}
+}
+td {
+	height: 700px;
+	border: 1px solid black;
+	width: calc(100%/6);
+}
+body {
+	font-family: "Indie Flower";
+	background: #008BE5
+	
+} 
+table {
+	width: 90%
+}
+
+table {
+			width: 90%;
+}
+td {
+				height: 700px;
+				border: 1px solid black;
+}
+h1 {
+				animation-name: a;
+				animation-duration: 2s;
+				animation-speed-function: linear;
+				animation-iteration-count: infinite;
+}
+			@keyframes a {
+				0% {
+					font-size: 50px;
+}
+50% {
+					font-size: 100px;
+}
+to {
+					font-size: 50px;
+}
+}
+#header {
+				height: 250px;
+}
+a:hover {
+	cursor: wait;
+	font-size: 40px;
+
+}
+body {
+  color: white;
+}
+
+h1 {
+  color: white;
+  
+}
+img {width: 300px;
+}
+
+			
